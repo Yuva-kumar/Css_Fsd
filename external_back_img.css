@@ -1,0 +1,9 @@
+div{
+	height:500px;
+	width:500px;
+	border:7px solid green;
+	background-image: url("images/T-HUB_logo.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
